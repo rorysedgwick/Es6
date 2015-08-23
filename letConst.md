@@ -4,4 +4,4 @@ Up until now the only option for declaring a variable was by using the statement
 
 Although Douglas Crockford sees no issue with using var he notes that to developers coming from different language back grounds singling out function blocks is unusual. Therefor he proposes that we use let instead of var. However, the most important point is that pick one of the two and stick with it.
 
-The ```const``` operator is quit self explanatory creating a read-only constant. 
+The ```const``` statement creates a read-only constant. 
