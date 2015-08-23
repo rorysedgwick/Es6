@@ -4,8 +4,7 @@
   "description": "The aim of this repo is to provide explanations and examples for new Es6 features.",
   "main": "index.js",
   "scripts": {
-    "test": "test",
-    "babel-node": "./node_modules/.bin/babel-node"
+    "test": "test"
   },
   "repository": {
     "type": "git",
